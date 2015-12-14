@@ -1,4 +1,4 @@
-# Welcome to log
+# Welcome to Blog
 
 ## Getting Started
 
