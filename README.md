@@ -1,4 +1,4 @@
-# Welcome to Glog
+# Welcome to log
 
 ## Getting Started
 
